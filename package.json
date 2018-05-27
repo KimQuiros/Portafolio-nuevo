@@ -1,5 +1,5 @@
 {
-  "name": "base-grunt-project",
+  "name": "portafolio",
   "version": "1.0.0",
   "description": "my base grunt project",
   "main": "main.js",
@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/mendoza077/base-grunt-project.git"
   },
-  "author": "Josué Mendoza",
+  "author": "Kimberly Quirós",
   "license": "",
   "bugs": {
     "url": "https://github.com/mendoza077/base-grunt-project/issues.git"

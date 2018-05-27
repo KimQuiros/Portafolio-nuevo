@@ -14780,10 +14780,7 @@ header {
  * Layout/about
  */
 .about {
-  padding: 80px 0; }
-  @media (min-width: 992px) {
-    .about {
-      height: 530px; } }
+  padding: 130px 0; }
   .about .content-img {
     position: relative; }
     @media (min-width: 992px) {
